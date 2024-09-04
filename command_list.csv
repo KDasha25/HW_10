@@ -1,0 +1,136 @@
+    1  c && rm
+    2  cd
+    3  cd~/OneDrive/Рабочий стол/Для дз
+    4  -c && rm ~/.bash_history
+    5  c && rm ~/.bash_histor
+    6  -c && rm ~/.bash_history
+    7  git config --global user.name "Daria Kleshnova"
+    8  git config --global user.email kleshneva.dasha@com.com
+    9  [200~git config --global user.name "KDasha25"
+   10  git config --global user.name "KDasha25"
+   11  git config --global user.email kleshneva.dasha@com.com
+   12  git clone [https://github.com/KDasha25/HW_10]
+   13  clear
+   14  help ls
+   15  mam ls
+   16  into ls
+   17  info ls
+   18  clear
+   19  ls
+   20  cd П
+   21  сd Pr6
+   22  cd Саша
+   23  cd Саша/
+   24  сдуык
+   25  clear
+   26  ls
+   27  cd
+   28  cd Pr6
+   29  ~cd Pr6
+   30  ~ cd Pr6
+   31  cd ~/OneDrive/Рабочий стол/Pr6
+   32  cd ~ Pr6
+   33  cd Pr6
+   34  cd Pr6
+   35  pwd
+   36  mkdir Test1
+   37  cd ~
+   38  cd Рабочий стол
+   39  cd OneDrive
+   40  cd Рабочий стол
+   41  cd Pr6
+   42  cd Р
+   43  touch file1.txt
+   44  vim file1.txt
+   45  nano file1.txt
+   46  cat fike1.txt
+   47  cat file.txt
+   48  cat file1.txt
+   49  clear
+   50  CD
+   51  Cd 
+   52  cd
+   53  cd OneDrive
+   54  cd "Рабочий стол"
+   55  cd Pr6
+   56  cesr
+   57  clear
+   58  cp file.txt Test1
+   59  cp file1.txt Test1
+   60  pwd
+   61   rmdir dgdfh
+   62  ping google.com
+   63  whoami
+   64  Clear
+   65  git config --global user.name "KDasha25"
+   66  git config --global user.email kleshneva.dasha@com.
+   67  git config --global user.email kleshneva.dasha@gmail.com
+   68  git clone https://github.com/KDasha25/HW_10.git
+   69  cd HW_10
+   70  touch text_ignore.txt
+   71  vim .gitignore.txt
+   72  clean
+   73  clear
+   74  nano .gitignore.txt
+   75  git status
+   76  git add .gitignore
+   77  git status
+   78  git cimmit
+   79  git commit -m "Доданий файл "text_ignore.txt"
+   80  vkjbigv
+   81  clear
+   82  git status
+   83  touch text_ignore.txt
+   84  git status
+   85  git clone https://github.com/KDasha25/HW_10.git
+   86  cd HW_10
+   87  vim .gitignore
+   88  touch  text_ignore.txt
+   89  git status
+   90  git add
+   91  git add
+   92  git add .
+   93  git commit -m "Зміни збережено"
+   94  git status
+   95  touch main_test.txt
+   96  git add .
+   97  git add
+   98  'git add .
+   99  git status
+  100  git add main_test.txt
+  101  git add main_test.txt
+  102  git commit -m "Створено порожній файл main_test.txt"
+  103  git log
+  104  git add text_ignore.txt
+  105  git commit -m "Створено порожній файл text_ignore.txt"
+  106  git log
+  107  clean
+  108  clear
+  109  git log
+  110  touch text_ignore.txt.txt
+  111  git status
+  112  touch text_ignore.txt
+  113  git status
+  114  git add text_ignore.txt
+  115  git commit -m "Створено порожній файл text_ignore.txt"
+  116  clear
+  117  git log
+  118  git checkout -b develop
+  119  git branch
+  120  touch develop_test.txt
+  121  git add develop_test.txt
+  122  git commit -m "Створено порожній файл develop_test.txt"
+  123  git log
+  124  clear
+  125  vim develop_test.txt
+  126  git add develop_test.txt
+  127  git commit -m "Внесено зміни до develop_test.txt"
+  128  пше дщп
+  129  git log
+  130  git branch
+  131  git checkout main
+  132  git branch
+  133  clear
+  134  git merge develop
+  135  git log
+  136  history > command_list.csv
